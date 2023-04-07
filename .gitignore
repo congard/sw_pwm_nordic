@@ -1,6 +1,10 @@
 # editors
 *.swp
 *~
+.idea
+.vscode
 
 # build
 /build*/
+
+.cache
